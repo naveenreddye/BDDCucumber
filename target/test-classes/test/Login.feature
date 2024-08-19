@@ -14,6 +14,7 @@ Examples:
 |aaaa@gmail.com |12345|
 |bbbb@gmail.com |12345|
 |ccccc@gmail.com |12345|
+|sdsadsa@hams.com |23432423|
 
 Scenario: Login with invalid credentials
 When User enters invalid email address "amotooricap343434343@gmail.com"

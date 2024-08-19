@@ -28,6 +28,7 @@ public class Login {
 		 System.out.println(">>From invalid email");
 	}
 	
+	
 	@And("Enters invalid password {string}")
 	public void enters_invalid_password(String string) {
 		 System.out.println(">>From invalid password");
