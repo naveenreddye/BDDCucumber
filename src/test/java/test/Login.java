@@ -7,12 +7,8 @@ public class Login {
 	@Given("User navigates to Login page")
 	public void user_navigates_to_login_page() {
 	    System.out.println(">>From navigate login oage");
-	}
-
-	
-
-	
-
+	}	
+//Code changed from Remote Repo Git
 	@And("Clicks on Login button")
 	public void clicks_on_login_button() {
 		 System.out.println(">>From Login button");
